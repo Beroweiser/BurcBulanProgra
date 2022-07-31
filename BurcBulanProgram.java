@@ -119,6 +119,6 @@ public class BurcBulanProgram {
         } else {
             System.out.println("Kenks AY gir dedik sen ne girdin biliyosun ki 12 ay mevcudumuz \nTekrar Dene !!");
         }
-
+        input.close();
     }
 }
