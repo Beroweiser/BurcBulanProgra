@@ -113,7 +113,7 @@ public class BurcBulanProgram {
                 System.out.println("Burcun : \"Oğlak\"");
 
             } else {
-                System.out.println("Günü Yanlış Girdiniz \nTekrar deneyiniz !!");
+                System.out.println("Günü yanlış girdiniz \nTekrar deneyiniz !!");
             }
 
         } else {
